@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Culture Code - You & I (feat. Alexis Donn)",
+        "src": "../songs/Culture%20Code%20-%20You%20%26%20I%20(feat.%20Alexis%20Donn).jpg",
+        "path": "../songs/Culture%20Code%20-%20You%20%26%20I%20(feat.%20Alexis%20Donn).mp3",
+        "description": "More awesome music from NCS sounds: https://www.youtube.com/c/NoCopyrightSounds"
+    },
+    {
+        "id": 2,
+        "title": "JPB - High (feat. Aleesia)",
+        "src": "../songs/JPB%20-%20High%20(feat.%20Aleesia).jpg",
+        "path": "../songs/JPB%20-%20High%20(feat.%20Aleesia).mp3"
+    },
+    {
+        "id": 3,
+        "title": "Razihel - A Song About You",
+        "src": "../songs/Razihel%20-%20A%20Song%20About%20You.jpg",
+        "path": "../songs/Razihel%20-%20A%20Song%20About%20You.mp3"
+    },
+    {
+        "id": 94,
+        "title": "Swing_Jazz_Drum",
+        "src": "https://picsum.photos/id/237/200",
+        "path": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+    },
+    {
+        "id": 95,
+        "title": "Swing_Jazz_Drum",
+        "src": "https://picsum.photos/id/238/200",
+        "path": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+    },
+    {
+        "id": 96,
+        "title": "Swing_Jazz_Drum",
+        "src": "https://picsum.photos/id/239/200",
+        "path": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+    },
+    {
+        "id": 97,
+        "title": "Swing_Jazz_Drum",
+        "src": "https://picsum.photos/id/240/200",
+        "path": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+    },
+    {
+        "id": 98,
+        "title": "Swing_Jazz_Drum",
+        "src": "https://picsum.photos/id/241/200",
+        "path": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+    },
+    {
+        "id": 99,
+        "title": "Swing_Jazz_Drum",
+        "src": "https://picsum.photos/id/242/200",
+        "path": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3"
+    }
+]

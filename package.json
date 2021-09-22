@@ -32,7 +32,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "./server.js --datadir ./public -p 8114",
+    "server": "node ./server.js --datadir ./public -p 8114",
     "webpack": "npx webpack serve --config ./config/webpack.config.dev.js --port 3016",
     "build": "NODE_ENV=production npx webpack --config ./config/webpack.config.dev.js"
   },
